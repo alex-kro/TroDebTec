@@ -1,0 +1,2 @@
+chmod 600 ~/Downloads/qwikLABS-L2382-32190278.pem
+ssh -i ~/Downloads/qwikLABS-L2382-32190278.pem student-02-e3d27ce91211@34.134.109.17
